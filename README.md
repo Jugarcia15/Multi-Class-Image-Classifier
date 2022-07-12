@@ -57,3 +57,33 @@ A part of a second dataset was merged with the first set:
 Omphalotus Orealius was omitted due to low number of images.
 
 ### **Total Number of Images = 3047**
+
+
+1. Use any modern web browser, go to https://mush-image-classifier-2.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/41842178/178397432-1770275c-97c2-4b17-a2ab-e063407ef65f.png)
+
+
+ 
+2. Click ‘Browse Files’ in the side bar.	
+
+ ![image](https://user-images.githubusercontent.com/41842178/178397417-0b5d8e9e-58dd-4558-a84f-4b626bc14fcd.png)
+
+ 
+ 
+3. Select a mushroom image you want to classify. Then click ‘Open’. There is a test image labeled ‘sample_image_rm.jpg’ in the submission folder. It is an image of a Russula Mariae mushroom. 
+ 
+![image](https://user-images.githubusercontent.com/41842178/178397373-6f7c0219-7fa5-4cfb-b19c-1e81d8856ba2.png)
+
+  
+  
+3. Click ‘Predict Image’ in the sidebar to predict the image you have uploaded. 
+
+![image](https://user-images.githubusercontent.com/41842178/178397355-92e54bcd-0057-4096-ad0a-c37d58dd4437.png)
+
+ 
+ 
+4. Prediction results will be displayed underneath the site title.
+
+ ![image](https://user-images.githubusercontent.com/41842178/178397340-540feac4-926f-4d4e-bf42-3c542659d88d.png)
+
