@@ -15,6 +15,7 @@ The Google Colab Retrieval Repo that is used in the model creation and training 
 
 The Google Colab Retrieval Repository contains the trained model, the reorganized image dataset, logs for tensorboard, and a folder of 34 test images. 
 
+The Streamlit and Gradio notebooks are also available in a seperate repository.
 
 # Multi-Class-Image-Classifier
  Updated Mushroom Image Classifier. Only includes the streamlit python file, and the notebook that was used in Google Colab.  Project Backup repository holds the dataset and log data generated from the creation of multiple models.  
