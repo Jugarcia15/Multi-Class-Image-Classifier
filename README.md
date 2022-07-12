@@ -89,7 +89,7 @@ Omphalotus Orealius was omitted due to low number of images.
 
 
 
-###Access via Google Colab (Gradio Implementation, this method requires a Google Account):
+### Access via Google Colab (Gradio Implementation, this method requires a Google Account):
 
 
 1.	Use any modern web browser, go to https://colab.research.google.com/drive/1kxXufKbPevp8Ewb1095ZJqBx5aDPLfeV?usp=sharing
