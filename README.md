@@ -1,3 +1,21 @@
+# Application Files
+The notebook that created and trained the model can be found at the following URL:
+
+https://colab.research.google.com/drive/1DaV72Wekxg1Sp4m1svD1N5MKBGwVA2a6?usp=sharing
+
+The notebook that contains the Gradio implementation of the mushroom image classifier can be found at the following URL:
+
+https://colab.research.google.com/drive/1kxXufKbPevp8Ewb1095ZJqBx5aDPLfeV?usp=sharing
+
+The Heroku application can be found at: https://mush-image-classifier-2.herokuapp.com/
+
+The Heroku Streamlit Application repository can be found at the following URL: https://github.com/Jugarcia15/Streamlit-Mushroom-Image-Classifier.git
+
+The Google Colab Retrieval Repo that is used in the model creation and training can be found at https://github.com/Jugarcia15/Google-Colab-Retrieval-Repo.git
+
+The Google Colab Retrieval Repository contains the trained model, the reorganized image dataset, logs for tensorboard, and a folder of 34 test images. 
+
+
 # Multi-Class-Image-Classifier
  Updated Mushroom Image Classifier. Only includes the streamlit python file, and the notebook that was used in Google Colab.  Project Backup repository holds the dataset and log data generated from the creation of multiple models.  
 
